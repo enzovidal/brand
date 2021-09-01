@@ -1,6 +1,6 @@
 import './App.css';
 import Sidebar from './components/Sidebar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import { Home, HomeOne, HomeTwo, HomeThree, HomeFour, HomeFive }  from './pages/Home';
 import { Colores, ColoresOne, ColoresTwo, ColoresThree } from './pages/Colores';
 import { Logos, LogosOne, LogosTwo, LogosThree, LogosFour, LogosFive, LogosSix } from './pages/Logos';
