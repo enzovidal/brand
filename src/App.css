@@ -158,6 +158,10 @@ ul {
   margin-bottom: 1rem;
 }
 
+li {
+  margin-bottom: .5rem;
+}
+
 p {
   margin-bottom: 1rem;
 }

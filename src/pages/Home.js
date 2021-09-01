@@ -49,7 +49,7 @@ export const HomeThree = () => {
   return (
     <div className='container'>
       <h1>Principios y pautas de identidad de la marca</h1>
-      <h2>¿Cómo <br/>somos?</h2>
+      <h2>¿Cómo somos?</h2>
         <ul>
           <li>Somos <strong>cariñosos</strong>, damos la bienvenida a nuestros clientes, nos preocupamos por ellos y sus familias, por la comunidad. Nuestros clientes confían en nosotros y trabajamos duro para no defraudarlos.</li>
           <li>Somos <strong>auténticos y humanos</strong>, gente común como nuestros clientes.</li>
