@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/brand/static/css/main.654f5732.chunk.css",
-    "main.js": "/brand/static/js/main.b9138fa1.chunk.js",
-    "main.js.map": "/brand/static/js/main.b9138fa1.chunk.js.map",
+    "main.js": "/brand/static/js/main.d5ff2e8f.chunk.js",
+    "main.js.map": "/brand/static/js/main.d5ff2e8f.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
-    "static/js/2.aaf18f99.chunk.js": "/brand/static/js/2.aaf18f99.chunk.js",
-    "static/js/2.aaf18f99.chunk.js.map": "/brand/static/js/2.aaf18f99.chunk.js.map",
+    "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
+    "static/js/2.34e6a765.chunk.js.map": "/brand/static/js/2.34e6a765.chunk.js.map",
     "static/js/3.82045712.chunk.js": "/brand/static/js/3.82045712.chunk.js",
     "static/js/3.82045712.chunk.js.map": "/brand/static/js/3.82045712.chunk.js.map",
     "index.html": "/brand/index.html",
     "static/css/main.654f5732.chunk.css.map": "/brand/static/css/main.654f5732.chunk.css.map",
-    "static/js/2.aaf18f99.chunk.js.LICENSE.txt": "/brand/static/js/2.aaf18f99.chunk.js.LICENSE.txt",
+    "static/js/2.34e6a765.chunk.js.LICENSE.txt": "/brand/static/js/2.34e6a765.chunk.js.LICENSE.txt",
     "static/media/App.css": "/brand/static/media/Bogle-Regular.bb3df737.woff2",
     "static/media/Express_logo-digital-alpha.14ec52ba.png": "/brand/static/media/Express_logo-digital-alpha.14ec52ba.png",
     "static/media/aplicacion-colores.3437a956.png": "/brand/static/media/aplicacion-colores.3437a956.png",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.390a36af.js",
-    "static/js/2.aaf18f99.chunk.js",
+    "static/js/2.34e6a765.chunk.js",
     "static/css/main.654f5732.chunk.css",
-    "static/js/main.b9138fa1.chunk.js"
+    "static/js/main.d5ff2e8f.chunk.js"
   ]
 }
