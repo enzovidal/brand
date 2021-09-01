@@ -10,7 +10,7 @@ export const SidebarData = [
 
     subNav: [
       {
-        title: 'Proposito',
+        title: 'Propósito',
         path: '/nuestra-marca/proposito'
       },
       {
