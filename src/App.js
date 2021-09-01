@@ -6,6 +6,7 @@ import { Colores, ColoresOne, ColoresTwo, ColoresThree } from './pages/Colores';
 import { Logos, LogosOne, LogosTwo, LogosThree, LogosFour, LogosFive, LogosSix } from './pages/Logos';
 import { Voz, VozViaje } from './pages/Voz';
 import { Tipografia, TipografiaOne } from './pages/tipografia';
+import { Recursos, RecursosOne, RecursosThree, RecursosTwo } from './pages/recursos';
 
 function App() {
   return (
@@ -26,6 +27,10 @@ function App() {
           <Route path='/logos/descargas' exact component={LogosSix} />
           <Route path='/tipografia-botones' exact component={Tipografia} />
           <Route path='/tipografia-botones/buenas-practicas' exact component={TipografiaOne} />
+          <Route path='/recursos' exact component={Recursos} />
+          <Route path='/recursos/supermercado' exact component={RecursosOne} />
+          <Route path='/recursos/catalogo' exact component={RecursosTwo} />
+          <Route path='/recursos/mail' exact component={RecursosThree} />
           <Route path='/voz-tono' exact component={Voz} />
           <Route path='/voz-tono/momentos-viaje' exact component={VozViaje} />
           <Route path='/' exact component={Home} />
