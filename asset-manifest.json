@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brand/static/css/main.69344ad1.chunk.css",
-    "main.js": "/brand/static/js/main.db2de235.chunk.js",
-    "main.js.map": "/brand/static/js/main.db2de235.chunk.js.map",
+    "main.js": "/brand/static/js/main.c03c978c.chunk.js",
+    "main.js.map": "/brand/static/js/main.c03c978c.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
     "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/Express_logo-digital-alpha.14ec52ba.png": "/brand/static/media/Express_logo-digital-alpha.14ec52ba.png",
     "static/media/aplicacion-colores.3437a956.png": "/brand/static/media/aplicacion-colores.3437a956.png",
     "static/media/buenas-practicas-spark.9b85b980.jpg": "/brand/static/media/buenas-practicas-spark.9b85b980.jpg",
-    "static/media/care.8b4de7b3.png": "/brand/static/media/care.8b4de7b3.png",
+    "static/media/care.93880f51.png": "/brand/static/media/care.93880f51.png",
     "static/media/colaboradores.b7678040.jpg": "/brand/static/media/colaboradores.b7678040.jpg",
     "static/media/colores.5de0ba0b.png": "/brand/static/media/colores.5de0ba0b.png",
     "static/media/logo-brandbook.26324b7b.png": "/brand/static/media/logo-brandbook.26324b7b.png",
@@ -30,9 +30,9 @@
     "static/media/prev_Lider_spark_logo-digital-blue.90e0d2c4.png": "/brand/static/media/prev_Lider_spark_logo-digital-blue.90e0d2c4.png",
     "static/media/prev_Lider_spark_logo-digital-other-colors.2679e421.png": "/brand/static/media/prev_Lider_spark_logo-digital-other-colors.2679e421.png",
     "static/media/prev_Lider_spark_logo-digital-white-one-color.f6a814d6.png": "/brand/static/media/prev_Lider_spark_logo-digital-white-one-color.f6a814d6.png",
-    "static/media/research.c531309d.png": "/brand/static/media/research.c531309d.png",
+    "static/media/research.c4d44c41.png": "/brand/static/media/research.c4d44c41.png",
     "static/media/seguridad-spark.7639f536.jpg": "/brand/static/media/seguridad-spark.7639f536.jpg",
-    "static/media/shop.8e782710.png": "/brand/static/media/shop.8e782710.png",
+    "static/media/shop.50117263.png": "/brand/static/media/shop.50117263.png",
     "static/media/spark.47860bfc.svg": "/brand/static/media/spark.47860bfc.svg",
     "static/media/tipografia.dd20d394.jpg": "/brand/static/media/tipografia.dd20d394.jpg"
   },
@@ -40,6 +40,6 @@
     "static/js/runtime-main.390a36af.js",
     "static/js/2.34e6a765.chunk.js",
     "static/css/main.69344ad1.chunk.css",
-    "static/js/main.db2de235.chunk.js"
+    "static/js/main.c03c978c.chunk.js"
   ]
 }
