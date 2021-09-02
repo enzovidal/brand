@@ -120,9 +120,9 @@ export const LogosFive = () => {
       
       <h3>Buenas Prácticas</h3>
       <ul>
-        <li>NO quite Sparklets sin aprobación.</li>
-        <li>NO use un Sparklet.</li>
-        <li>NO modifique los bordes o la forma del Sparklet.</li>
+        <li>NO quites Sparklets sin aprobación.</li>
+        <li>NO uses un solo Sparklet.</li>
+        <li>NO modifiques los bordes o la forma del Sparklet.</li>
       </ul>
       <p><img src={practicasSpark} alt='margenes spark' className='img-fluid' /></p>
 
