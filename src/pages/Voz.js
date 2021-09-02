@@ -22,7 +22,7 @@ export const Voz = () => {
         <li>
           <h3>Vive mejor</h3>
           <h4 className='text-blue'>Se humano.</h4>
-          <p>Habla como una persona, no una empresa.</p>
+          <p>Habla como una persona, no como una empresa.</p>
         </li>
       </ul>
 
