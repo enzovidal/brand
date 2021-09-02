@@ -23,7 +23,7 @@ export const ColoresOne = () => {
       <ul>
         <li>Para medios digitales, utiliza solo el azul digital en modo RGB para adaptarse a las necesidades de legibilidad.</li>
         <li>El blanco complementa al azul digital y es un color de fondo o un color tipográfico.</li>
-        <li>Spark Yellow debe usarse como color de acento, siempre y cuando su color de fondo sea el azul digital de walmart.</li>
+        <li>Spark Yellow debe usarse como color de acento.</li>
       </ul>
       <div className='mt-2'>
         <div className='row'>
@@ -124,7 +124,7 @@ export const ColoresTwo = () => {
       <h1>Colores</h1>
       <h2>Accesibilidad / Legibilidad</h2>
       <p>
-      Nuestras paletas de colores y combinaciones que se muestran aquí cumplen con las pautas de la accesibilidad y legibilidad en la web. Todas las variaciones mostradas pasan las guías de nivel AA de WCAG 2.0.
+      Con el fin de reforzar nuestro compromiso de integración con toda la comunidad, nuestras paletas de colores y combinaciones que se muestran aquí cumplen con las pautas de la accesibilidad y legibilidad en la web recomendadas por el consorcio World Wide Web(Guías de nivel AA de WCAG 2.0) y especificadas por los términos y pautas de accesibilidad de la Ley de Estadounidenses con Discapacidades (ADA).
       </p>
       <ul>
         <li>
@@ -147,12 +147,11 @@ export const ColoresThree = () => {
       <h1>Colores</h1>
       <h2>Buenas prácticas</h2>
       <ul>
-        <li>NO utilice el azul digital para impresión.</li>
-        <li>NO use colores secundarios en los titulares.</li>
-        <li>NO use variantes de los colores primarios.</li>
-        <li>NO agregue texturas al azul.</li>
-        <li>NO aplique colores digitales que no cumplan con la ADA.</li>
-        <li>El amarillo Spark nunca debe usarse como color de fondo.</li>
+        <li>El azul digital nunca lo utilizaremos para impresión.</li>
+        <li>Evita usar variantes de los colores primarios.</li>
+        <li>Evita utilizar texturas sobre nuestro azul.</li>
+        <li>NO aplique colores digitales que no cumplan con las normas de accesibilidad y legibilidad.</li>
+        <li>Nuestro amarillo Spark nunca debe usarse como color de fondo.</li>
       </ul>
     </div>
   );

@@ -48,7 +48,7 @@ export const VozViaje = () => {
       <h1>Voz y Tono</h1>
       <h2>¿Cómo debemos hablar en cada etapa de la compra?</h2>
 
-      <h3>1. Research</h3>
+      <h3>1. Busqueda</h3>
       <div>
         <p>Es muy importante poder ser entusiastas, accesibles y cercanos; para dar a entender al usuario que estamos ahí para ayudarlo en lo que necesite y ofrecerle los mejores productos, precios y servicios: se crean promesas de Líder, como un lugar donde puede ahorrar tiempo y dinero.</p>
         <p>En esta etapa, debemos transmitir que siempre estaremos felices de que vuelvas a tu lugar de siempre, sin importar quien seas.</p>
@@ -59,7 +59,7 @@ export const VozViaje = () => {
         </p>
       </div>
 
-      <h3>2. Shop</h3>
+      <h3>2. Compra</h3>
       <div>
         <p>La marca debe mostrarse como un lugar donde el cliente puede ver cumplidas sus expectativas de compra; donde podrá encontrar todo lo que necesita y a buen precio, siempre teniendo ganas de volver a volver a verte o recibirte.</p>
         <p>El mood que debe adoptar Lider es el de alguien transparente, sincero, confiable, verídico y leal; de manera que nuestros usuarios lo vean reflejado en una experiencia de compra rápida y económica, donde existe una preocupación humana y la experiencia no está limitada a lo puramente transaccional.</p>
@@ -68,7 +68,7 @@ export const VozViaje = () => {
         </p>
       </div>
 
-      <h3>3. Care</h3>
+      <h3>3. Post Venta</h3>
       <div>
         <p>Esta etapa es una de las más importantes del viaje del usuario, ya que es donde estos deben percibir que Lider reafirma su compromiso con ellos. Acá, es crucial que las personas sientan que las promesas ofrecidas por Lider, respecto de su experiencia de compra, son efectivas y que además tiene cierre del proceso de compra, que es satisfactorio e incluso mejor de lo que esperaban, ello si nos ubicamos en la situación de que un usuario tenga un viaje sin contratiempos. </p>
         <p>Sin embargo, también puede ocurrir que este resulte ser un momento del viaje en el que nos encontremos con problemas o situaciones críticas (errores de productos en los pedidos, productos en mal estado, demoras excesivas de despacho, etc), por lo que los usuarios experimentarán frustraciones, decepciones e incluso enojo hacia la marca y sus colaboradores. En ese sentido, las personas necesitan ver que, como buen amigo, Lider siente genuinamente que debe pedir una disculpa y enmendar su error.</p>
