@@ -1,5 +1,6 @@
 import React from 'react';
 import Colaboradores from '../assets/img/colaboradores.jpg'
+import imgOmni from '../assets/img/fotoOmnicanal.jpg'
 import LogoLider from '../assets/img/Lider_spark_logo-digital-alpha.png'
 import LogoExpress from '../assets/img/Express_logo-digital-alpha.png'
 import LogoLiderCL from '../assets/img/LiderCL_spark_logo-digital-alpha.png'
@@ -8,9 +9,10 @@ export const Home = () => {
   return (
     <div className='container'>
       <h1>Principios y pautas de identidad de la marca</h1>
-      <h2 className="cite">"Si trabajamos juntos, reduciremos el costo de vida para todos ... le daremos al mundo una oportunidad para ver cómo es ahorrar y tener una vida mejor"<br/> <span className='text-blue'>Sam Walton</span></h2>
-      <p>
-        <img src={Colaboradores} alt='Colaboradores' className='img-fluid' />
+      <h2>Lo que nos inspira</h2>
+      <h3 className="cite">"Si trabajamos juntos, reduciremos el costo de vida para todos ... le daremos al mundo una oportunidad para ver cómo es ahorrar y tener una vida mejor"<br/> <strong className='text-blue'>Sam Walton</strong></h3>
+      <p className='mt-2'>
+        <img src={imgOmni} alt='Omnicanalidad' className='img-fluid' />
       </p>
     </div>
   );
@@ -24,6 +26,9 @@ export const HomeOne = () => {
         <p>
           Facilitar la vida de nuestros clientes, <strong>ahorrándoles tiempo y dinero</strong>, acompañándolos sin importar dónde viven o el medio por el cuál prefieren comprar, para ayudarlos a vivir mejor, es nuestro propósito fundamental.
         </p>
+        <p>
+        <img src={Colaboradores} alt='Colaboradores' className='img-fluid' />
+      </p>
     </div>
   );
 };
