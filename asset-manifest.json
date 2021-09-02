@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brand/static/css/main.69344ad1.chunk.css",
-    "main.js": "/brand/static/js/main.1ea866f6.chunk.js",
-    "main.js.map": "/brand/static/js/main.1ea866f6.chunk.js.map",
+    "main.js": "/brand/static/js/main.bc8d3e32.chunk.js",
+    "main.js.map": "/brand/static/js/main.bc8d3e32.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
     "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
@@ -19,6 +19,7 @@
     "static/media/care.93880f51.png": "/brand/static/media/care.93880f51.png",
     "static/media/colaboradores.b7678040.jpg": "/brand/static/media/colaboradores.b7678040.jpg",
     "static/media/colores.5de0ba0b.png": "/brand/static/media/colores.5de0ba0b.png",
+    "static/media/fotoOmnicanal.129e795d.jpg": "/brand/static/media/fotoOmnicanal.129e795d.jpg",
     "static/media/logo-brandbook.26324b7b.png": "/brand/static/media/logo-brandbook.26324b7b.png",
     "static/media/logo-express-brandbook.bef86126.png": "/brand/static/media/logo-express-brandbook.bef86126.png",
     "static/media/logo-lidercl-brandbook.846565aa.png": "/brand/static/media/logo-lidercl-brandbook.846565aa.png",
@@ -40,6 +41,6 @@
     "static/js/runtime-main.390a36af.js",
     "static/js/2.34e6a765.chunk.js",
     "static/css/main.69344ad1.chunk.css",
-    "static/js/main.1ea866f6.chunk.js"
+    "static/js/main.bc8d3e32.chunk.js"
   ]
 }
