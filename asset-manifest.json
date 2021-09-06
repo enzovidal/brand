@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/brand/static/css/main.69344ad1.chunk.css",
-    "main.js": "/brand/static/js/main.bc8d3e32.chunk.js",
-    "main.js.map": "/brand/static/js/main.bc8d3e32.chunk.js.map",
+    "main.css": "/brand/static/css/main.58a20e1e.chunk.css",
+    "main.js": "/brand/static/js/main.ce673c13.chunk.js",
+    "main.js.map": "/brand/static/js/main.ce673c13.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
     "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.82045712.chunk.js": "/brand/static/js/3.82045712.chunk.js",
     "static/js/3.82045712.chunk.js.map": "/brand/static/js/3.82045712.chunk.js.map",
     "index.html": "/brand/index.html",
-    "static/css/main.69344ad1.chunk.css.map": "/brand/static/css/main.69344ad1.chunk.css.map",
+    "static/css/main.58a20e1e.chunk.css.map": "/brand/static/css/main.58a20e1e.chunk.css.map",
     "static/js/2.34e6a765.chunk.js.LICENSE.txt": "/brand/static/js/2.34e6a765.chunk.js.LICENSE.txt",
     "static/media/App.css": "/brand/static/media/Bogle-Regular.bb3df737.woff2",
     "static/media/Express_logo-digital-alpha.14ec52ba.png": "/brand/static/media/Express_logo-digital-alpha.14ec52ba.png",
@@ -21,11 +21,11 @@
     "static/media/colores.5de0ba0b.png": "/brand/static/media/colores.5de0ba0b.png",
     "static/media/fotoOmnicanal.129e795d.jpg": "/brand/static/media/fotoOmnicanal.129e795d.jpg",
     "static/media/logo-brandbook.26324b7b.png": "/brand/static/media/logo-brandbook.26324b7b.png",
-    "static/media/logo-express-brandbook.bef86126.png": "/brand/static/media/logo-express-brandbook.bef86126.png",
+    "static/media/logo-express-brandbook.931692bc.png": "/brand/static/media/logo-express-brandbook.931692bc.png",
     "static/media/logo-lidercl-brandbook.846565aa.png": "/brand/static/media/logo-lidercl-brandbook.846565aa.png",
     "static/media/logo-pickup-brandbook.38b59e05.png": "/brand/static/media/logo-pickup-brandbook.38b59e05.png",
     "static/media/logo-spark-brandbook.d32a816d.png": "/brand/static/media/logo-spark-brandbook.d32a816d.png",
-    "static/media/logos-brandbook.431ad3f7.png": "/brand/static/media/logos-brandbook.431ad3f7.png",
+    "static/media/logos-brandbook.a6facdfa.png": "/brand/static/media/logos-brandbook.a6facdfa.png",
     "static/media/prev_Lider_spark_logo-digital-alpha.41779be8.png": "/brand/static/media/prev_Lider_spark_logo-digital-alpha.41779be8.png",
     "static/media/prev_Lider_spark_logo-digital-black-one-color.e7179769.png": "/brand/static/media/prev_Lider_spark_logo-digital-black-one-color.e7179769.png",
     "static/media/prev_Lider_spark_logo-digital-blue.90e0d2c4.png": "/brand/static/media/prev_Lider_spark_logo-digital-blue.90e0d2c4.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.390a36af.js",
     "static/js/2.34e6a765.chunk.js",
-    "static/css/main.69344ad1.chunk.css",
-    "static/js/main.bc8d3e32.chunk.js"
+    "static/css/main.58a20e1e.chunk.css",
+    "static/js/main.ce673c13.chunk.js"
   ]
 }
