@@ -16,7 +16,7 @@ export const ColoresOne = () => {
   return (
     <div className='container'>
       <h1>Colores</h1>
-      <h2>Colores Primarios</h2>
+      <h2>Colores Primarios Lider</h2>
       <p>
         Nuestro logo esta compuesto por los colores azul, blanco y amarillo. Walmart Blue es el color principal que debe aplicarse en todas las comunicaciones para mantener la coherencia de la marca.
       </p>
@@ -57,6 +57,59 @@ export const ColoresOne = () => {
                 <div><strong>PMS</strong> 1235 C</div>
               </div>
               <p>Spark Yellow</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <h2>Colores Primarios Express de Lider</h2>
+      <p>
+        Nuestro logo esta compuesto por los colores azul, blanco, verde y celeste. Walmart Blue es el color principal que debe aplicarse en todas las comunicaciones para mantener la coherencia de la marca.
+      </p>
+      <div className='mt-2'>
+        <div className='row'>
+
+          <div className='col col-20'>
+            <div className='card'>
+              <div className='color bg-blue'>
+                <div>#0071DC</div>
+                <div><strong>CMYK</strong> 100,45,0,0</div>
+                <div><strong>PMS</strong> 285 C</div>
+              </div>
+              <p>Walmart Blue</p>
+            </div>
+          </div>
+
+          <div className='col col-20'>
+            <div className='card'>
+              <div className='color bg-white'>
+                <div>#FFFFFF</div>
+                <div><strong>CMYK</strong> 0,0,0,0</div>
+              </div>
+              <p>White</p>
+            </div>
+          </div>
+
+          <div className='col col-20'>
+            <div className='card'>
+              <div className='color bg-green'>
+                <div>#87D300</div>
+                <div><strong>CMYK</strong> 40,0,98,0</div>
+                <div><strong>PMS</strong> 375 C</div>
+              </div>
+              <p>Green</p>
+            </div>
+          </div>
+
+          <div className='col col-20'>
+            <div className='card'>
+              <div className='color bg-lightblue'>
+                <div>#00B5E6</div>
+                <div><strong>CMYK</strong> 76,0,0,0</div>
+                <div><strong>PMS</strong> 306 C</div>
+              </div>
+              <p>Light Blue</p>
             </div>
           </div>
 

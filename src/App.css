@@ -3,6 +3,8 @@
   --white: #ffffff;
   --yellow: #ffc220;
   --orange: #fa6400;
+  --light-blue: #00b5e6;
+  --green: #87d300;
   --red: #de1c24;
   --dark-blue: #041e42;
   --light-yellow: #fff200;
@@ -102,6 +104,18 @@ a {
   background-color: var(--orange);
   color: var(--white);
   border: 1px solid var(--orange);
+}
+
+.bg-green {
+  background-color: var(--green);
+  color: var(--dark-blue);
+  border: 1px solid var(--green);
+}
+
+.bg-lightblue {
+  background-color: var(--light-blue);
+  color: var(--dark-blue);
+  border: 1px solid var(--light-blue);
 }
 
 .bg-lightyellow {
