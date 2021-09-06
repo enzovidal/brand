@@ -5,11 +5,28 @@ import logoExpressBrandbook from '../assets/img/logo-express-brandbook.png';
 import logoPickupBrandbook from '../assets/img/logo-pickup-brandbook.png';
 import logoSparkBrandbook from '../assets/img/logo-spark-brandbook.png';
 import logosBrandbook from '../assets/img/logos-brandbook.png';
+
 import preLiderBlue from '../assets/img/prev_Lider_spark_logo-digital-blue.png';
 import preLiderTransparent from '../assets/img/prev_Lider_spark_logo-digital-alpha.png';
 import preLiderWhite from '../assets/img/prev_Lider_spark_logo-digital-black-one-color.png';
 import preLiderBlack from '../assets/img/prev_Lider_spark_logo-digital-white-one-color.png';
 import preLiderOther from '../assets/img/prev_Lider_spark_logo-digital-other-colors.png';
+import preLiderCLBlue from '../assets/img/prev_LiderCL_spark_logo-digital-blue.png';
+import preLiderCLTransparent from '../assets/img/prev_LiderCL_spark_logo-digital-alpha.png';
+import preLiderCLWhite from '../assets/img/prev_LiderCL_spark_logo-digital-black-one-color.png';
+import preLiderCLBlack from '../assets/img/prev_LiderCL_spark_logo-digital-white-one-color.png';
+import preLiderCLOther from '../assets/img/prev_LiderCL_spark_logo-digital-other-colors.png';
+import preExpressBlue from '../assets/img/prev_Express_logo-digital-blue.png';
+import preExpressTransparent from '../assets/img/prev_Express_logo-digital-alpha.png';
+import preExpressWhite from '../assets/img/prev_Express_logo-digital-black-one-color.png';
+import preExpressBlack from '../assets/img/prev_Express_logo-digital-white-one-color.png';
+import prePickupOrange from '../assets/img/prev_Pickup_spark_logo-digital-orange.png';
+import prePickupPuntoCompra from '../assets/img/prev_Pickup_punto_compra_logo-digital-orange.png';
+import prePickupPuntoRetiro from '../assets/img/prev_Pickup_punto_retiro_logo-digital-orange.png';
+import prePickupOther from '../assets/img/prev_Pickup_logo-digital-other_color.png';
+import preDeliveryOther from '../assets/img/prev_Despacho_logo-digital-other_color.png';
+
+
 import margenesSpark from '../assets/img/seguridad-spark.jpg';
 import practicasSpark from '../assets/img/buenas-practicas-spark.jpg';
 
@@ -19,7 +36,7 @@ export const Logos = () => {
 
       <h1>Logos</h1>
       <h2>Omnicanalidad</h2>
-      <p>Cuando necesites aplicar todos los logos con sus canales de distribución en una misma gráfica, los ubicarás con el siguiente orden: Lider, Express y Lider.cl Lider App y a continuación en la parte inferior Despacho a tu casa, Pickup.</p>
+      <p>Cuando necesites aplicar todos los logos con sus canales de distribución en una misma gráfica, los ubicarás con el siguiente orden: Express de Lider, Lider App, Lider.cl y Lider, y a continuación en la parte inferior Despacho a tu casa, Pickup.</p>
       <img src={logosBrandbook} alt='aplicacion de colores' className='img-fluid' />
 
     </div>
@@ -205,6 +222,201 @@ export const LogosSix = () => {
         </div>
 
       </div>
+
+      <div className='row'>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preLiderCLBlue} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-blue.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-blue.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-blue.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preLiderCLTransparent} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-alpha.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-alpha.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-alpha.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preLiderCLWhite} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-black-one-color.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-black-one-color.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-black-one-color.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preLiderCLBlack} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-white-one-color.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-white-one-color.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-white-one-color.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preLiderCLOther} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-other-colors.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-other-colors.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/liderCL/LiderCL_spark_logo-digital-other-colors.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+      <div className='row'>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preExpressBlue} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-blue.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-alpha.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-alpha.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preExpressTransparent} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-alpha.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-alpha.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-alpha.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preExpressWhite} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-black-one-color.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-black-one-color.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-black-one-color.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preExpressBlack} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-white-one-color.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-white-one-color.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/express/Express_logo-digital-white-one-color.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+      <div className='row'>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={prePickupOrange} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_spark_logo-digital-orange.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_spark_logo-digital-orange.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_spark_logo-digital-orange.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={prePickupPuntoRetiro} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_punto_retiro_logo-digital-orange.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_punto_retiro_logo-digital-orange.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_punto_retiro_logo-digital-orange.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={prePickupPuntoCompra} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_punto_compra_logo-digital-orange.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_punto_compra_logo-digital-orange.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_punto_compra_logo-digital-orange.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={prePickupOther} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_logo-digital-other_color.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_logo-digital-other_color.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Pickup_logo-digital-other_color.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div className='col col-20'>
+          <div className='card download bg-gray'>
+            <div>
+              <img src={preDeliveryOther} className='img-fluid' alt='Vista previa logo lider' />
+            </div>
+            <ul>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Despacho_logo-digital-other_color.pdf%5D&sink=format%5Bpdf%5D' target='_blank' rel="noreferrer" className='btn-download'>PDF</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Despacho_logo-digital-other_color.svg%5D&sink=format%5Bsvg%5D' target='_blank' rel="noreferrer" className='btn-download'>SVG</a></li>
+              <li><a href='https://images.lider.cl/wmtcl?source=url%5Bfile:/brandbook/digital/servicios/Despacho_logo-digital-other_color.png%5D&sink=format%5Bpng%5D' target='_blank' rel="noreferrer">PNG</a></li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
 
     </div>
   );
