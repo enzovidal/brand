@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brand/static/css/main.58a20e1e.chunk.css",
-    "main.js": "/brand/static/js/main.ce673c13.chunk.js",
-    "main.js.map": "/brand/static/js/main.ce673c13.chunk.js.map",
+    "main.js": "/brand/static/js/main.5ac00b2c.chunk.js",
+    "main.js.map": "/brand/static/js/main.5ac00b2c.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
     "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
@@ -25,7 +25,7 @@
     "static/media/logo-lidercl-brandbook.846565aa.png": "/brand/static/media/logo-lidercl-brandbook.846565aa.png",
     "static/media/logo-pickup-brandbook.38b59e05.png": "/brand/static/media/logo-pickup-brandbook.38b59e05.png",
     "static/media/logo-spark-brandbook.d32a816d.png": "/brand/static/media/logo-spark-brandbook.d32a816d.png",
-    "static/media/logos-brandbook.a6facdfa.png": "/brand/static/media/logos-brandbook.a6facdfa.png",
+    "static/media/logos-brandbook.24ca5c89.png": "/brand/static/media/logos-brandbook.24ca5c89.png",
     "static/media/prev_Lider_spark_logo-digital-alpha.41779be8.png": "/brand/static/media/prev_Lider_spark_logo-digital-alpha.41779be8.png",
     "static/media/prev_Lider_spark_logo-digital-black-one-color.e7179769.png": "/brand/static/media/prev_Lider_spark_logo-digital-black-one-color.e7179769.png",
     "static/media/prev_Lider_spark_logo-digital-blue.90e0d2c4.png": "/brand/static/media/prev_Lider_spark_logo-digital-blue.90e0d2c4.png",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.390a36af.js",
     "static/js/2.34e6a765.chunk.js",
     "static/css/main.58a20e1e.chunk.css",
-    "static/js/main.ce673c13.chunk.js"
+    "static/js/main.5ac00b2c.chunk.js"
   ]
 }
