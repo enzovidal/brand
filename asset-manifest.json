@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/brand/static/css/main.aeb03d92.chunk.css",
-    "main.js": "/brand/static/js/main.d346ce5e.chunk.js",
-    "main.js.map": "/brand/static/js/main.d346ce5e.chunk.js.map",
+    "main.css": "/brand/static/css/main.cc7c6616.chunk.css",
+    "main.js": "/brand/static/js/main.41a83ef2.chunk.js",
+    "main.js.map": "/brand/static/js/main.41a83ef2.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
     "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
@@ -10,11 +10,12 @@
     "static/js/3.82045712.chunk.js": "/brand/static/js/3.82045712.chunk.js",
     "static/js/3.82045712.chunk.js.map": "/brand/static/js/3.82045712.chunk.js.map",
     "index.html": "/brand/index.html",
-    "static/css/main.aeb03d92.chunk.css.map": "/brand/static/css/main.aeb03d92.chunk.css.map",
+    "static/css/main.cc7c6616.chunk.css.map": "/brand/static/css/main.cc7c6616.chunk.css.map",
     "static/js/2.34e6a765.chunk.js.LICENSE.txt": "/brand/static/js/2.34e6a765.chunk.js.LICENSE.txt",
     "static/media/App.css": "/brand/static/media/Bogle-Regular.bb3df737.woff2",
     "static/media/Express_logo-digital-alpha.14ec52ba.png": "/brand/static/media/Express_logo-digital-alpha.14ec52ba.png",
     "static/media/aplicacion-colores.3437a956.png": "/brand/static/media/aplicacion-colores.3437a956.png",
+    "static/media/botones.39401c01.jpg": "/brand/static/media/botones.39401c01.jpg",
     "static/media/buenas-practicas-spark.9b85b980.jpg": "/brand/static/media/buenas-practicas-spark.9b85b980.jpg",
     "static/media/care.93880f51.png": "/brand/static/media/care.93880f51.png",
     "static/media/colaboradores.b7678040.jpg": "/brand/static/media/colaboradores.b7678040.jpg",
@@ -56,12 +57,13 @@
     "static/media/seguridad-spark.7639f536.jpg": "/brand/static/media/seguridad-spark.7639f536.jpg",
     "static/media/shop.50117263.png": "/brand/static/media/shop.50117263.png",
     "static/media/spark.47860bfc.svg": "/brand/static/media/spark.47860bfc.svg",
-    "static/media/tipografia.dd20d394.jpg": "/brand/static/media/tipografia.dd20d394.jpg"
+    "static/media/tipografia.dd20d394.jpg": "/brand/static/media/tipografia.dd20d394.jpg",
+    "static/media/topTipografia.6d347630.png": "/brand/static/media/topTipografia.6d347630.png"
   },
   "entrypoints": [
     "static/js/runtime-main.390a36af.js",
     "static/js/2.34e6a765.chunk.js",
-    "static/css/main.aeb03d92.chunk.css",
-    "static/js/main.d346ce5e.chunk.js"
+    "static/css/main.cc7c6616.chunk.css",
+    "static/js/main.41a83ef2.chunk.js"
   ]
 }
