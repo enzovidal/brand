@@ -148,8 +148,8 @@ export const ColoresOne = () => {
             <div className='card'>
               <div className='color bg-orange'>
                 <div>#FA6400</div>
-                <div><strong>CMYK</strong> 0,68,100,0</div>
-                <div><strong>PMS</strong> 185 C</div>
+                <div><strong>CMYK</strong> 0,76,100,0</div>
+                <div><strong>PMS</strong> 166 C</div>
               </div>
               <p>Orange: Pickup</p>
             </div>

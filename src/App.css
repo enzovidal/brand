@@ -40,6 +40,12 @@ a {
   color: var(--blue);
 }
 
+hr {
+  border: none;
+  border-bottom: 1px solid var(--dark-blue);
+  margin: 2rem 0;
+}
+
 /* Grid */
 
 .row {
@@ -128,6 +134,27 @@ a {
   background-color: rgb(242, 242, 242);
 }
 
+/* Botones */
+
+.lider-btn {
+  display: inline-block;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: .875rem;
+  line-height: 1.875rem;
+  overflow: hidden;
+  padding: 0 1rem;
+  text-overflow: ellipsis;
+  border-radius: 1rem;
+}
+
+.lider-btn--primary {
+  background-color: var(--blue) !important;
+  color: var(--white);
+  border: 1px solid var(--blue);
+}
+
+
 h1 {
   margin-bottom: 2rem;
 }
@@ -142,6 +169,10 @@ h2 {
 
 .text-center {
   text-align: center;
+}
+
+.my-2 {
+  margin: 2rem 0;
 }
 
 .mt-2 {
@@ -253,4 +284,109 @@ p {
 
 .voz li:last-child {
   border-right: none;
+}
+
+/* Tipografía */
+
+.tableTipo td {
+  vertical-align: top;
+}
+
+.tableTipo tr {
+  padding-bottom: 1rem;
+  display: block;
+}
+
+/* Small Screens */
+
+.font-display-0 {
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 52px;
+}
+
+.font-display-1 {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 40px;
+}
+
+.font-display-2 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.font-title {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.font-headline {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.font-subhead {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.font-subhead-small {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+/* Large Screen */
+
+
+.font-display-0.lg {
+  font-size: 48px;
+  line-height: 60px;
+}
+
+.font-display-1.lg {
+  font-size: 42px;
+  line-height: 52px;
+}
+
+.font-display-2.lg {
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.font-title.lg {
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.font-headline.lg {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.font-subhead.lg {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.font-subhead-small.lg {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.font-body {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.font-body-small {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
 }

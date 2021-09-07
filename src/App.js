@@ -5,7 +5,7 @@ import { Home, HomeOne, HomeTwo, HomeThree, HomeFour, HomeFive }  from './pages/
 import { Colores, ColoresOne, ColoresTwo, ColoresThree } from './pages/Colores';
 import { Logos, LogosOne, LogosTwo, LogosThree, LogosFour, LogosFive, LogosSix } from './pages/Logos';
 import { Voz, VozViaje } from './pages/Voz';
-import { Tipografia, TipografiaOne } from './pages/tipografia';
+import { Tipografia, TipografiaOne, TipografiaThree, TipografiaTwo } from './pages/tipografia';
 import { Recursos, RecursosOne, RecursosThree, RecursosTwo } from './pages/recursos';
 
 function App() {
@@ -26,7 +26,9 @@ function App() {
           <Route path='/logos/spark' exact component={LogosFive} />
           <Route path='/logos/descargas' exact component={LogosSix} />
           <Route path='/tipografia-botones' exact component={Tipografia} />
-          <Route path='/tipografia-botones/buenas-practicas' exact component={TipografiaOne} />
+          <Route path='/tipografia-botones/tipografia' exact component={TipografiaOne} />
+          <Route path='/tipografia-botones/tamanos' exact component={TipografiaTwo} />
+          <Route path='/tipografia-botones/botones' exact component={TipografiaThree} />
           <Route path='/recursos' exact component={Recursos} />
           <Route path='/recursos/supermercado' exact component={RecursosOne} />
           <Route path='/recursos/catalogo' exact component={RecursosTwo} />

@@ -102,8 +102,18 @@ export const SidebarData = [
 
     subNav: [
       {
-        title: 'Buenas Prácticas',
-        path: '/tipografia-botones/buenas-practicas',
+        title: 'Tipografía',
+        path: '/tipografia-botones/tipografia',
+        cName: 'sub-nav'
+      },
+      {
+        title: 'Tamaños para digital',
+        path: '/tipografia-botones/tamanos',
+        cName: 'sub-nav'
+      },
+      {
+        title: 'Botones',
+        path: '/tipografia-botones/botones',
         cName: 'sub-nav'
       }
     ]
