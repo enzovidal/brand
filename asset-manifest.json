@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brand/static/css/main.3e1a1ef0.chunk.css",
-    "main.js": "/brand/static/js/main.017d49f8.chunk.js",
-    "main.js.map": "/brand/static/js/main.017d49f8.chunk.js.map",
+    "main.js": "/brand/static/js/main.683745b1.chunk.js",
+    "main.js.map": "/brand/static/js/main.683745b1.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
     "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
@@ -55,7 +55,7 @@
     "static/media/prev_Pickup_punto_compra_logo-digital-orange.3dc3be82.png": "/brand/static/media/prev_Pickup_punto_compra_logo-digital-orange.3dc3be82.png",
     "static/media/prev_Pickup_punto_retiro_logo-digital-orange.7e0f0e0c.png": "/brand/static/media/prev_Pickup_punto_retiro_logo-digital-orange.7e0f0e0c.png",
     "static/media/prev_Pickup_spark_logo-digital-orange.7659656c.png": "/brand/static/media/prev_Pickup_spark_logo-digital-orange.7659656c.png",
-    "static/media/research.c4d44c41.png": "/brand/static/media/research.c4d44c41.png",
+    "static/media/research.a003e51b.png": "/brand/static/media/research.a003e51b.png",
     "static/media/seguridad-spark.7639f536.jpg": "/brand/static/media/seguridad-spark.7639f536.jpg",
     "static/media/shop.50117263.png": "/brand/static/media/shop.50117263.png",
     "static/media/spark.47860bfc.svg": "/brand/static/media/spark.47860bfc.svg",
@@ -66,6 +66,6 @@
     "static/js/runtime-main.390a36af.js",
     "static/js/2.34e6a765.chunk.js",
     "static/css/main.3e1a1ef0.chunk.css",
-    "static/js/main.017d49f8.chunk.js"
+    "static/js/main.683745b1.chunk.js"
   ]
 }
