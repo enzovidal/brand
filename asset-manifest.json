@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/brand/static/css/main.cc7c6616.chunk.css",
-    "main.js": "/brand/static/js/main.41a83ef2.chunk.js",
-    "main.js.map": "/brand/static/js/main.41a83ef2.chunk.js.map",
+    "main.css": "/brand/static/css/main.3e1a1ef0.chunk.css",
+    "main.js": "/brand/static/js/main.25c5ea24.chunk.js",
+    "main.js.map": "/brand/static/js/main.25c5ea24.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
     "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
@@ -10,15 +10,17 @@
     "static/js/3.82045712.chunk.js": "/brand/static/js/3.82045712.chunk.js",
     "static/js/3.82045712.chunk.js.map": "/brand/static/js/3.82045712.chunk.js.map",
     "index.html": "/brand/index.html",
-    "static/css/main.cc7c6616.chunk.css.map": "/brand/static/css/main.cc7c6616.chunk.css.map",
+    "static/css/main.3e1a1ef0.chunk.css.map": "/brand/static/css/main.3e1a1ef0.chunk.css.map",
     "static/js/2.34e6a765.chunk.js.LICENSE.txt": "/brand/static/js/2.34e6a765.chunk.js.LICENSE.txt",
     "static/media/App.css": "/brand/static/media/Bogle-Regular.bb3df737.woff2",
     "static/media/Express_logo-digital-alpha.14ec52ba.png": "/brand/static/media/Express_logo-digital-alpha.14ec52ba.png",
+    "static/media/LiderCL_spark_logo-digital-alpha.016e5386.png": "/brand/static/media/LiderCL_spark_logo-digital-alpha.016e5386.png",
     "static/media/aplicacion-colores.3437a956.png": "/brand/static/media/aplicacion-colores.3437a956.png",
     "static/media/botones.39401c01.jpg": "/brand/static/media/botones.39401c01.jpg",
     "static/media/buenas-practicas-spark.9b85b980.jpg": "/brand/static/media/buenas-practicas-spark.9b85b980.jpg",
     "static/media/care.93880f51.png": "/brand/static/media/care.93880f51.png",
     "static/media/colaboradores.b7678040.jpg": "/brand/static/media/colaboradores.b7678040.jpg",
+    "static/media/colores-buenas-practicas.1caab156.png": "/brand/static/media/colores-buenas-practicas.1caab156.png",
     "static/media/colores.5de0ba0b.png": "/brand/static/media/colores.5de0ba0b.png",
     "static/media/fotoOmnicanal.129e795d.jpg": "/brand/static/media/fotoOmnicanal.129e795d.jpg",
     "static/media/logo-brandbook.26324b7b.png": "/brand/static/media/logo-brandbook.26324b7b.png",
@@ -63,7 +65,7 @@
   "entrypoints": [
     "static/js/runtime-main.390a36af.js",
     "static/js/2.34e6a765.chunk.js",
-    "static/css/main.cc7c6616.chunk.css",
-    "static/js/main.41a83ef2.chunk.js"
+    "static/css/main.3e1a1ef0.chunk.css",
+    "static/js/main.25c5ea24.chunk.js"
   ]
 }
