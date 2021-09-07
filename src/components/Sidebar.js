@@ -13,6 +13,7 @@ const SidebarNav = styled.nav`
   height: 100vh;
   position:fixed;
   justify-content: center;
+  overflow-y: auto;
   top: 0;
   // left: ${({ sidebar }) => (sidebar ? '0' : '-100%')};
   transition: 350ms;
