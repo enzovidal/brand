@@ -5,7 +5,7 @@ import { Home, HomeOne, HomeTwo, HomeThree, HomeFour, HomeFive }  from './pages/
 import { Colores, ColoresOne, ColoresTwo, ColoresThree } from './pages/Colores';
 import { Logos, LogosOne, LogosTwo, LogosThree, LogosFour, LogosFive, LogosSix } from './pages/Logos';
 import { Voz, VozViaje } from './pages/Voz';
-import { Tipografia, TipografiaOne, TipografiaThree, TipografiaTwo } from './pages/tipografia';
+import { Tipografia, TipografiaOne, TipografiaThree, TipografiaTwo } from './pages/Tipografia';
 import { Recursos, RecursosOne, RecursosThree, RecursosTwo } from './pages/recursos';
 
 function App() {
@@ -40,7 +40,7 @@ function App() {
           <Route path='/nuestra-marca/propuesta-de-valor' exact component={HomeTwo} />
           <Route path='/nuestra-marca/personalidad' exact component={HomeThree} />
           <Route path='/nuestra-marca/relacion-clientes' exact component={HomeFour} />
-          <Route path='/nuestra-marca/clientes' exact component={HomeFive} />
+          <Route path='/nuestra-marca/nuestros-formatos' exact component={HomeFive} />
         </Switch>
       </Router>
     </div>

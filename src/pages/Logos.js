@@ -61,14 +61,14 @@ export const LogosOne = () => {
 
       <h1>Logos</h1>
       <h2>Lider</h2>
-      <p>El logotipo Lider se construye a partir de dos elementos: el logo Lider y el Spark que contiene una R de marca registrada, la cual siempre tiene que estar presente.</p>
-      <p>El logotipo se compone de dos colores Pantone, y también tienen sus equivalencias a CMYK(cuatricromía), para que lo uses en soportes impresos y la versión en RGB (pantalla) para soportes digitales.</p>
+      <p>El logotipo Lider se construye a partir de dos elementos: <strong>el logo Lider y el Spark</strong> que contiene una R de marca registrada, la cual siempre tiene que estar presente.</p>
+      <p>El logotipo se compone de dos colores Pantone, y también tienen sus equivalencias a CMYK(cuatricromía), para que lo uses en <strong>soportes impresos</strong> y la versión en RGB (pantalla) para <strong>soportes digitales</strong>.</p>
+      <p><img src={logoLiderBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
       <ul>
         <li>Usa esta versión solo cuando el fondo sea blanco.</li>
         <li>Cuando necesites aplicar el logotipo sobre un fondo azul corporativo, tendrás que elegir el Pantone 285 C, con sus letras en color blanco y Spark en Pantone amarillo 1235 C.</li>
       </ul>
-      <p><strong>Nota:</strong> No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</p>
-      <p><img src={logoLiderBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
+      <p><strong>No modifiques ni intentes recrear estos elementos de ninguna manera. Utiliza siempre el logotipo aprobado.</strong></p>
 
       <h3 className='mb-1'>Área de Seguridad</h3>
       <p>El área de protección es un espacio alrededor del logotipo que permite que quede libre de otros elementos gráficos. Gracias a esto aseguras la legibilidad del logotipo.</p>
@@ -89,14 +89,14 @@ export const LogosTwo = () => {
 
       <h1>Logos</h1>
       <h2 className='mt-2'>Lider.cl</h2>
-      <p>El logotipo se compone de dos colores Pantone, y también tienen sus equivalencias a CMYK (cuatricromía), para que lo uses en soportes impresos y la versión en RGB (pantalla) para soportes digitales.</p>
+      <p>El logotipo se compone de dos colores Pantone, y también tienen sus equivalencias a CMYK (cuatricromía), para que lo uses en <strong>soportes impresos</strong> y la versión en RGB (pantalla) para <strong>soportes digitales</strong>.</p>
+      <p><img src={logoLiderCLBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
       <ul>
         <li>Usa esta versión solo cuando el fondo sea blanco.</li>
         <li>Cuando necesites aplicar el logotipo sobre un fondo azul corporativo, tendrás que elegir el Pantone 285 C, con sus letras en color blanco y Spark en Pantone amarillo 1235 C.</li>
       </ul>
-      <p><strong>Nota:</strong> No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</p>
-      <p><img src={logoLiderCLBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
-
+      <p><strong>No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</strong></p>
+      
       <h3 className='mb-1'>Área de Seguridad</h3>
       <p>El área de protección es un espacio alrededor del logotipo que permite que quede libre de otros elementos gráficos. Gracias a esto aseguras la legibilidad del logotipo.</p>
       <p>Esta área (letra r) define el resguardo del logotipo.</p>
@@ -116,13 +116,14 @@ export const LogosThree = () => {
 
       <h1>Logos</h1>
       <h2 className='mt-2'>Express de Lider</h2>
-      <p>El logotipo se compone de dos colores Pantone, y también tienen sus equivalencias a CMYK (cuatricromía), para que lo uses en soportes impresos y la versión en RGB (pantalla) para soportes digitales.</p>
+      <p>El logotipo se compone de dos colores Pantone, y también tienen sus equivalencias a CMYK (cuatricromía), para que lo uses en <strong>soportes impresos</strong> y la versión en RGB (pantalla) para <strong>soportes digitales</strong>.</p>
+      <p><img src={logoExpressBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
       <ul>
         <li>Usa esta versión solo cuando el fondo sea blanco.</li>
         <li>Cuando necesites aplicar el logotipo sobre un fondo azul corporativo, tendrás que elegir el Pantone 285 C, con sus letras en color blanco y los Pantones correspondientes verde 375 C y cian 306 C.</li>
       </ul>
-      <p><strong>Nota:</strong> No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</p>
-      <p><img src={logoExpressBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
+      <p><strong>No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</strong></p>
+      
       
       <h3 className='mb-1'>Área de Seguridad</h3>
       <p>El área de protección es un espacio alrededor del logotipo que permite que quede libre de otros elementos gráficos. Gracias a esto aseguras la legibilidad del logotipo.</p>
@@ -143,12 +144,12 @@ export const LogosFour = () => {
 
       <h1>Logos</h1>    
       <h2 className='mt-2'>Pickup</h2>
-      <p>El logotipo se compone de dos colores Pantone, y también tienen sus equivalencias a CMYK(cuatricromía), para que lo uses en soportes impresos y la versión en RGB (pantalla) para soportes digitales.</p>
-      <ul>
-        <li>Usalo solo sobre el color Pantone 185 C, con sus letras en color blanco y Spark en Pantone amarillo 1235 C.</li>
-      </ul>
-      <p><strong>Nota:</strong> No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</p>
+      <p>El logotipo se compone de dos colores Pantone, y también tienen sus equivalencias a CMYK(cuatricromía), para que lo uses en <strong>soportes impresos</strong> y la versión en RGB (pantalla) para <strong>soportes digitales</strong>.</p>
       <p><img src={logoPickupBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
+      <ul>
+        <li>Usalo sobre el color Pantone 166 C, con sus letras en color blanco y Spark en Pantone amarillo 1235 C.</li>
+      </ul>
+      <p><strong>No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</strong></p>
 
       <h3 className='mb-1'>Logo con Tagline</h3>
       <p><img src={logoPickupTagline} alt='logo con tagline' className='img-fluid' /></p>
@@ -163,11 +164,14 @@ export const LogosFive = () => {
 
       <h1>Logos</h1>
       <h2 className='mt-2'>Spark</h2>
-      <p>El spark es nuestro ícono, entrega la fuerza y la energía.</p>
-      <p>Se usa principalmente en Amarillo, también se puede usar en azul o blanco, dependiendo del contexto y contraste. Debe ir acompañado de la R encerrada en un círculo.</p>
-      <p>No se debe rotar, ni deformar, ni superponer.</p>
-      <p>Está permitido usar medio Spark, para dar énfasis, jamás como uso decorativo.</p>
-      <p><strong>Conclusión:</strong> Cuando estés trabajando una pieza pregúntate, “¿suma?”, si la respuesta es “no”, entonces sácalo. Asegúrate de que el spark o medio spark es un punto activo en la comunicación.</p>
+      <ul>
+        <li>El spark es nuestro ícono, entrega la fuerza y la energía.</li>
+        <li>Se usa principalmente en Amarillo, también se puede usar en azul o blanco, dependiendo del contexto y contraste. Debe ir acompañado de la R encerrada en un círculo.</li>
+        <li>No se debe rotar, ni deformar, ni superponer.</li>
+        <li>Está permitido usar medio Spark, para dar énfasis, jamás como uso decorativo.</li>
+      </ul>
+      
+      <p><strong>Cuando estés trabajando una pieza pregúntate, “¿suma?”, si la respuesta es “no”, entonces sácalo. Asegúrate de que el spark o medio spark es un punto activo en la comunicación.</strong></p>
       <p>
         <img src={logoSparkBrandbook} alt='aplicacion de colores' className='img-fluid' />
       </p>

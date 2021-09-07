@@ -68,6 +68,10 @@ hr {
   width: 20%;
 }
 
+.col-33 {
+  width: 33%;
+}
+
 .col-50 {
   width: 50%;
 }
@@ -76,6 +80,14 @@ hr {
   width: 3rem;
   display: block;
   margin: 1rem auto;
+}
+
+.logo-formatos {
+  height: 8.5rem;
+}
+
+.logo-formatos img {
+  vertical-align: middle;
 }
 
 .title {
@@ -169,6 +181,10 @@ h2 {
 
 .text-center {
   text-align: center;
+}
+
+.text-right {
+  text-align: right;
 }
 
 .my-2 {

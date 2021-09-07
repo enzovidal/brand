@@ -26,8 +26,8 @@ export const SidebarData = [
         path: '/nuestra-marca/relacion-clientes'
       },
       {
-        title: 'Clientes',
-        path: '/nuestra-marca/clientes'
+        title: 'Nuestros Formatos',
+        path: '/nuestra-marca/nuestros-formatos'
       }
     ]
   },

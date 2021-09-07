@@ -1,6 +1,7 @@
 import React from 'react';
 import referenciaColor from '../assets/img/colores.png';
 import aplicacionColor from '../assets/img/aplicacion-colores.png';
+import imgColorBuenasPractias from '../assets/img/colores-buenas-practicas.png';
 
 export const Colores = () => {
   return (
@@ -18,12 +19,12 @@ export const ColoresOne = () => {
       <h1>Colores</h1>
       <h2>Colores Primarios Lider</h2>
       <p>
-        Nuestro logo esta compuesto por los colores azul, blanco y amarillo. Walmart Blue es el color principal que debe aplicarse en todas las comunicaciones para mantener la coherencia de la marca.
+      Nuestro logo está compuesto por los colores azul, blanco y amarillo. <strong>Walmart Blue es el color principal</strong> que debe aplicarse en todas las comunicaciones para mantener la coherencia de la marca.
       </p>
       <ul>
-        <li>Para medios digitales, utiliza solo el azul digital en modo RGB para adaptarse a las necesidades de legibilidad.</li>
+        <li><strong>Para medios digitales</strong>, utiliza solo el azul digital en modo RGB para adaptarse a las necesidades de legibilidad.</li>
         <li>El blanco complementa al azul digital y es un color de fondo o un color tipográfico.</li>
-        <li>Spark Yellow debe usarse como color de acento.</li>
+        <li>Spark Yellow debe usarse como color para <strong>destacar</strong>.</li>
       </ul>
       <div className='mt-2'>
         <div className='row'>
@@ -176,17 +177,10 @@ export const ColoresTwo = () => {
     <div className='container'>
       <h1>Colores</h1>
       <h2>Accesibilidad / Legibilidad</h2>
-      <p>
-      Con el fin de reforzar nuestro compromiso de integración con toda la comunidad, nuestras paletas de colores y combinaciones que se muestran aquí cumplen con las pautas de la accesibilidad y legibilidad en la web recomendadas por el consorcio World Wide Web(Guías de nivel AA de WCAG 2.0) y especificadas por los términos y pautas de accesibilidad de la Ley de Estadounidenses con Discapacidades (ADA).
-      </p>
-      <ul>
-        <li>
-        El nivel AA requiere una relación de contraste de al menos 4.5:1 para texto normal y 3:1 para texto grande, y una relación de contraste de al menos 3:1 para gráficos y componentes de interfaz de usuario (como bordes de entrada de formularios).
-        </li>
-        <li>
-        El texto grande se define como 14 puntos (normalmente 18,66 píxeles) y negrita o más grande, o 18 puntos (normalmente 24 píxeles) o más.
-        </li>
-      </ul>
+      <p>Somos inclusivos, y nos importa que <strong>todos nuestros clientes puedan leer la información que disponemos para ellos</strong>, incluso personas con dificultades o alteraciones en la visión.</p>
+      <p>Por esto, y con el fin de reforzar nuestro compromiso de integración con toda la comunidad, nuestras paletas de colores y combinaciones que se muestran aquí cumplen con las pautas de la accesibilidad y legibilidad en la web recomendadas por el consorcio World Wide Web(Guías de nivel AA de WCAG 2.0)</p>
+      <p>El nivel AA requiere una relación de contraste de al menos 4.5:1 para texto normal y 3:1 para texto grande, y una relación de contraste de al menos 3:1 para gráficos y componentes de interfaz de usuario (como bordes de entrada de formularios).</p>
+      <p>El texto grande se define como 14 puntos (normalmente 18,66 píxeles) y negrita o más grande, o 18 puntos (normalmente 24 píxeles) o más.</p>
       <p>
         <img src={aplicacionColor} alt='aplicacion de colores' className='img-fluid' />
       </p>
@@ -200,12 +194,15 @@ export const ColoresThree = () => {
       <h1>Colores</h1>
       <h2>Buenas prácticas</h2>
       <ul>
-        <li>El azul digital nunca lo utilizaremos para impresión.</li>
+        <li>Si estás trabajando una pieza a imprimir, recuerda usar el azul correcto (CMYK o PMS). El azul de digital debes usarlo solo para comunicación digital.</li>
         <li>Evita usar variantes de los colores primarios.</li>
         <li>Evita utilizar texturas sobre nuestro azul.</li>
-        <li>NO aplique colores digitales que no cumplan con las normas de accesibilidad y legibilidad.</li>
-        <li>Nuestro amarillo Spark nunca debe usarse como color de fondo.</li>
+        <li>Recuerda aplicar los colores digitales siempre cumpliendo las normas de accesibilidad y legibilidad.</li>
+        <li>Nuestro amarillo spark debes usarlo siempre para destacar o dar énfasis, no lo uses como color de fondo.</li>
       </ul>
+      <p>
+        <img src={imgColorBuenasPractias} alt='aplicacion de colores' className='img-fluid' />
+      </p>
     </div>
   );
 };

@@ -10,7 +10,8 @@ export const Home = () => {
     <div className='container'>
       <h1>Principios y pautas de identidad de la marca</h1>
       <h2>Lo que nos inspira</h2>
-      <h3 className="cite">"Si trabajamos juntos, reduciremos el costo de vida para todos ... le daremos al mundo una oportunidad para ver cómo es ahorrar y tener una vida mejor"<br/> <strong className='text-blue'>Sam Walton</strong></h3>
+      <h3 className="cite mb-1">"Si trabajamos juntos, reduciremos el costo de vida para todos ... le daremos al mundo una oportunidad para ver cómo es ahorrar y tener una vida mejor"</h3>
+      <h3 className='text-blue text-right'>Sam Walton <br />Fundador Walmart</h3>
       <p className='mt-2'>
         <img src={imgOmni} alt='Omnicanalidad' className='img-fluid' />
       </p>
@@ -91,46 +92,48 @@ export const HomeFive = () => {
   return (
     <div className='container'>
       <h1>Principios y pautas de identidad de la marca</h1>
-      <h2>¿Qué buscan?, ¿Dónde?</h2>
+      <h2>Nuestros Formatos</h2>
       <p>Tenemos distintos tipos de clientes, según el canal de compra que elige, y el momento en qué lo hace. No son distintos clientes, pero nos buscan en diferentes momentos por diferentes necesidades.</p>
 
       <div className='row'>
-        <div className='col col-50 p-2'>
-          <img src={LogoLider} className='img-fluid' alt='logo lider' />
-        </div>
-        <div className='col col-50 p-1'>
-          <h3>LIDER/SUPERMERCADO</h3>
-          <p>
-            Buscan comprar todo en un mismo lugar, amplitud de surtido, experiencia integral.
-          </p>
-        </div>
         
-      </div>
+        <div className='col col-33 p-2'>
+          <div className='logo-formatos'>
+            <img src={LogoLider} className='img-fluid' alt='logo lider' />
+          </div>
+          <div>
+            <h3>Lider / Supermercado</h3>
+            <p>
+              Buscan comprar todo en un mismo lugar, amplitud de surtido, experiencia integral.
+            </p>
+          </div>
+        </div>
 
-      <div className='row'>
-        <div className='col col-50 p-2'>
-          <img src={LogoExpress} className='img-fluid' alt='logo lider' />
+        <div className='col col-33 p-2'>
+          <div className='logo-formatos'>
+            <img src={LogoExpress} className='img-fluid' alt='logo lider' />
+          </div>
+          <div>
+            <h3>Express de Lider</h3>
+            <p>
+              Se enfocan en productos de alimentación y consumo inmediato. Experiencia rápida y cercana
+            </p>
+          </div>
         </div>
-        <div className='col col-50 p-1'>
-          <h3>EXPRESS</h3>
-          <p>
-            Se enfocan en productos de alimentación y consumo inmediato. Experiencia rápida y cercana
-          </p>
-        </div>
-      </div>
 
-      <div className='row'>
-        <div className='col col-50 p-2'>
-          <img src={LogoLiderCL} className='img-fluid' alt='logo lider' />
+        <div className='col col-33 p-2'>
+          <div className='logo-formatos'>
+            <img src={LogoLiderCL} className='img-fluid' alt='logo lider' />
+          </div>
+          <div>
+            <h3>Lider.cl / Lider App</h3>
+            <p>
+              Esperan una experiencia personalizada, que se tenga en cuenta sus preferencias previas. Amplitud y profundidad el surtido, que cubra todas sus necesidades de compra, cuándo y cómo quiera
+            </p>
+          </div>
         </div>
-        <div className='col col-50 p-1'>
-          <h3>LIDER.CL /LIDER APP</h3>
-          <p>
-            Esperan una experiencia personalizada, que se tenga en cuenta sus preferencias previas. Amplitud y profundidad el surtido, que cubra todas sus necesidades de compra, cuándo y cómo quiera
-          </p>
-        </div>
-      </div>
 
+      </div>
     </div>
   );
 };
