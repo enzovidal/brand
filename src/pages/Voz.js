@@ -48,7 +48,7 @@ export const VozViaje = () => {
       <h1>Voz y Tono</h1>
       <h2>¿Cómo debemos hablar en cada etapa de la compra?</h2>
 
-      <h3>1. Busqueda</h3>
+      <h3>1. Búsqueda</h3>
       <div>
         <p>Es muy importante poder ser entusiastas, accesibles y cercanos; para dar a entender al usuario que estamos ahí para ayudarlo en lo que necesite y ofrecerle los mejores productos, precios y servicios: se crean promesas de Líder, como un lugar donde puede ahorrar tiempo y dinero.</p>
         <p>En esta etapa, debemos transmitir que siempre estaremos felices de que vuelvas a tu lugar de siempre, sin importar quien seas.</p>
