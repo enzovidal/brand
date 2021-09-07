@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/brand/static/css/main.58a20e1e.chunk.css",
-    "main.js": "/brand/static/js/main.60672bd2.chunk.js",
-    "main.js.map": "/brand/static/js/main.60672bd2.chunk.js.map",
+    "main.css": "/brand/static/css/main.aeb03d92.chunk.css",
+    "main.js": "/brand/static/js/main.d346ce5e.chunk.js",
+    "main.js.map": "/brand/static/js/main.d346ce5e.chunk.js.map",
     "runtime-main.js": "/brand/static/js/runtime-main.390a36af.js",
     "runtime-main.js.map": "/brand/static/js/runtime-main.390a36af.js.map",
     "static/js/2.34e6a765.chunk.js": "/brand/static/js/2.34e6a765.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.82045712.chunk.js": "/brand/static/js/3.82045712.chunk.js",
     "static/js/3.82045712.chunk.js.map": "/brand/static/js/3.82045712.chunk.js.map",
     "index.html": "/brand/index.html",
-    "static/css/main.58a20e1e.chunk.css.map": "/brand/static/css/main.58a20e1e.chunk.css.map",
+    "static/css/main.aeb03d92.chunk.css.map": "/brand/static/css/main.aeb03d92.chunk.css.map",
     "static/js/2.34e6a765.chunk.js.LICENSE.txt": "/brand/static/js/2.34e6a765.chunk.js.LICENSE.txt",
     "static/media/App.css": "/brand/static/media/Bogle-Regular.bb3df737.woff2",
     "static/media/Express_logo-digital-alpha.14ec52ba.png": "/brand/static/media/Express_logo-digital-alpha.14ec52ba.png",
@@ -22,8 +22,15 @@
     "static/media/fotoOmnicanal.129e795d.jpg": "/brand/static/media/fotoOmnicanal.129e795d.jpg",
     "static/media/logo-brandbook.26324b7b.png": "/brand/static/media/logo-brandbook.26324b7b.png",
     "static/media/logo-express-brandbook.931692bc.png": "/brand/static/media/logo-express-brandbook.931692bc.png",
+    "static/media/logo-express-buenas-practicas.dc924057.png": "/brand/static/media/logo-express-buenas-practicas.dc924057.png",
+    "static/media/logo-express-seguridad.fd2e38df.png": "/brand/static/media/logo-express-seguridad.fd2e38df.png",
+    "static/media/logo-lider-buenas-practicas.9a8bceff.png": "/brand/static/media/logo-lider-buenas-practicas.9a8bceff.png",
+    "static/media/logo-lider-seguridad.acc3780c.png": "/brand/static/media/logo-lider-seguridad.acc3780c.png",
+    "static/media/logo-liderCL-buenas-practicas.763bb390.png": "/brand/static/media/logo-liderCL-buenas-practicas.763bb390.png",
+    "static/media/logo-liderCL-seguridad.0688b14b.png": "/brand/static/media/logo-liderCL-seguridad.0688b14b.png",
     "static/media/logo-lidercl-brandbook.846565aa.png": "/brand/static/media/logo-lidercl-brandbook.846565aa.png",
     "static/media/logo-pickup-brandbook.38b59e05.png": "/brand/static/media/logo-pickup-brandbook.38b59e05.png",
+    "static/media/logo-pickup-tagline.c6ab3188.png": "/brand/static/media/logo-pickup-tagline.c6ab3188.png",
     "static/media/logo-spark-brandbook.d32a816d.png": "/brand/static/media/logo-spark-brandbook.d32a816d.png",
     "static/media/logos-brandbook.adae03d6.png": "/brand/static/media/logos-brandbook.adae03d6.png",
     "static/media/prev_Despacho_logo-digital-other_color.5fe5e99a.png": "/brand/static/media/prev_Despacho_logo-digital-other_color.5fe5e99a.png",
@@ -54,7 +61,7 @@
   "entrypoints": [
     "static/js/runtime-main.390a36af.js",
     "static/js/2.34e6a765.chunk.js",
-    "static/css/main.58a20e1e.chunk.css",
-    "static/js/main.60672bd2.chunk.js"
+    "static/css/main.aeb03d92.chunk.css",
+    "static/js/main.d346ce5e.chunk.js"
   ]
 }
