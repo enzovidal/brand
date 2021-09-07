@@ -1,8 +1,20 @@
 import React from 'react';
+
 import logoLiderBrandbook from '../assets/img/logo-brandbook.png';
+import logoLiderBuenasPracticas from '../assets/img/logo-lider-buenas-practicas.png';
+import logoLiderSeguridad from '../assets/img/logo-lider-seguridad.png';
+
 import logoLiderCLBrandbook from '../assets/img/logo-lidercl-brandbook.png';
+import logoLiderCLBuenasPracticas from '../assets/img/logo-liderCL-buenas-practicas.png';
+import logoLiderCLSeguridad from '../assets/img/logo-liderCL-seguridad.png';
+
 import logoExpressBrandbook from '../assets/img/logo-express-brandbook.png';
+import logoExpressBuenasPracticas from '../assets/img/logo-express-buenas-practicas.png';
+import logoExpressSeguridad from '../assets/img/logo-express-seguridad.png';
+
 import logoPickupBrandbook from '../assets/img/logo-pickup-brandbook.png';
+import logoPickupTagline from '../assets/img/logo-pickup-tagline.png';
+
 import logoSparkBrandbook from '../assets/img/logo-spark-brandbook.png';
 import logosBrandbook from '../assets/img/logos-brandbook.png';
 
@@ -56,8 +68,17 @@ export const LogosOne = () => {
         <li>Cuando necesites aplicar el logotipo sobre un fondo azul corporativo, tendrás que elegir el Pantone 285 C, con sus letras en color blanco y Spark en Pantone amarillo 1235 C.</li>
       </ul>
       <p><strong>Nota:</strong> No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</p>
-      <img src={logoLiderBrandbook} alt='aplicacion de colores' className='img-fluid' />
+      <p><img src={logoLiderBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
 
+      <h3 className='mb-1'>Área de Seguridad</h3>
+      <p>El área de protección es un espacio alrededor del logotipo que permite que quede libre de otros elementos gráficos. Gracias a esto aseguras la legibilidad del logotipo.</p>
+      <p>Esta área (letra r) define el resguardo del logotipo.</p>
+      <p><img src={logoLiderSeguridad} alt='aplicacion de colores' className='img-fluid' /></p>
+
+      <h3 className='mb-1'>Usos Incorrectos</h3>
+      <p>El objetivo de restringir las aplicaciones incorrectas de la marca corporativa es lograr una coherencia en la comunicación. Solo son correctas las aplicaciones que están explícitamente en este manual, cualquier cambio de color, orientación, proporción combinación es incorrecta. Aquí te mostramos algunos ejemplos de cosas que no debes hacer:</p>
+      <p><img src={logoLiderBuenasPracticas} alt='Buenas prácticas' className='img-fluid' /></p>
+    
     </div>
   );
 };
@@ -74,7 +95,16 @@ export const LogosTwo = () => {
         <li>Cuando necesites aplicar el logotipo sobre un fondo azul corporativo, tendrás que elegir el Pantone 285 C, con sus letras en color blanco y Spark en Pantone amarillo 1235 C.</li>
       </ul>
       <p><strong>Nota:</strong> No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</p>
-      <img src={logoLiderCLBrandbook} alt='aplicacion de colores' className='img-fluid' />
+      <p><img src={logoLiderCLBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
+
+      <h3 className='mb-1'>Área de Seguridad</h3>
+      <p>El área de protección es un espacio alrededor del logotipo que permite que quede libre de otros elementos gráficos. Gracias a esto aseguras la legibilidad del logotipo.</p>
+      <p>Esta área (letra r) define el resguardo del logotipo.</p>
+      <p><img src={logoLiderCLSeguridad} alt='aplicacion de colores' className='img-fluid' /></p>
+
+      <h3 className='mb-1'>Usos Incorrectos</h3>
+      <p>El objetivo de restringir las aplicaciones incorrectas de la marca corporativa es lograr una coherencia en la comunicación. Solo son correctas las aplicaciones que están explícitamente en este manual, cualquier cambio de color, orientación, proporción combinación es incorrecta. Aquí te mostramos algunos ejemplos de cosas que no debes hacer:</p>
+      <p><img src={logoLiderCLBuenasPracticas} alt='Buenas prácticas' className='img-fluid' /></p>
 
     </div>
   );
@@ -92,7 +122,16 @@ export const LogosThree = () => {
         <li>Cuando necesites aplicar el logotipo sobre un fondo azul corporativo, tendrás que elegir el Pantone 285 C, con sus letras en color blanco y los Pantones correspondientes verde 375 C y cian 306 C.</li>
       </ul>
       <p><strong>Nota:</strong> No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</p>
-      <img src={logoExpressBrandbook} alt='aplicacion de colores' className='img-fluid' />
+      <p><img src={logoExpressBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
+      
+      <h3 className='mb-1'>Área de Seguridad</h3>
+      <p>El área de protección es un espacio alrededor del logotipo que permite que quede libre de otros elementos gráficos. Gracias a esto aseguras la legibilidad del logotipo.</p>
+      <p>Esta área (letra r) define el resguardo del logotipo.</p>
+      <p><img src={logoExpressSeguridad} alt='aplicacion de colores' className='img-fluid' /></p>
+
+      <h3 className='mb-1'>Usos Incorrectos</h3>
+      <p>El objetivo de restringir las aplicaciones incorrectas de la marca corporativa es lograr una coherencia en la comunicación. Solo son correctas las aplicaciones que están explícitamente en este manual, cualquier cambio de color, orientación, proporción combinación es incorrecta. Aquí te mostramos algunos ejemplos de cosas que no debes hacer:</p>
+      <p><img src={logoExpressBuenasPracticas} alt='Buenas prácticas' className='img-fluid' /></p>
     
     </div>
   );
@@ -109,7 +148,10 @@ export const LogosFour = () => {
         <li>Usalo solo sobre el color Pantone 185 C, con sus letras en color blanco y Spark en Pantone amarillo 1235 C.</li>
       </ul>
       <p><strong>Nota:</strong> No modifique ni intente recrear estos elementos de ninguna manera. Utilice siempre el logotipo aprobado.</p>
-      <img src={logoPickupBrandbook} alt='aplicacion de colores' className='img-fluid' />
+      <p><img src={logoPickupBrandbook} alt='aplicacion de colores' className='img-fluid' /></p>
+
+      <h3 className='mb-1'>Logo con Tagline</h3>
+      <p><img src={logoPickupTagline} alt='logo con tagline' className='img-fluid' /></p>
 
     </div>
   );
@@ -130,12 +172,12 @@ export const LogosFive = () => {
         <img src={logoSparkBrandbook} alt='aplicacion de colores' className='img-fluid' />
       </p>
 
-      <h3>Área de Seguridad</h3>
+      <h3 className='mb-1'>Área de Seguridad</h3>
       <p>El área de protección es un espacio delimitado por márgenes en torno al logotipo que debe ser siempre respetado y quedar libre de otros elementos gráficos para asegurar la legibilidad del logotipo.</p>
       <p>Esta área (x) la define el ancho de un elemento del Spark por todo el contorno del ícono.</p>
       <p><img src={margenesSpark} alt='margenes spark' className='img-fluid' /></p>
       
-      <h3>Buenas Prácticas</h3>
+      <h3 className='mb-1'>Usos Incorrectos</h3>
       <ul>
         <li>NO quites Sparklets sin aprobación.</li>
         <li>NO uses un solo Sparklet.</li>
